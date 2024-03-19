@@ -1,0 +1,19 @@
+div .biographies {
+  display: flex; 
+  justify-content: center; 
+  gap: 10px;
+}
+
+div .column {
+  display: flex; 
+  flex-direction: column;
+}
+
+div .bio{
+  max-width:400px; 
+  max-height:300px;
+}
+
+img .bio{
+  max-width:200px;
+}
